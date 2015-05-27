@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>terrain/Detail.bmp</file>
+        <file>terrain/Terrain.bmp</file>
+        <file>terrain/TerrainHeightmap.raw</file>
+        <file>sky_box/Back.bmp</file>
+        <file>sky_box/Bottom.bmp</file>
+        <file>sky_box/Front.bmp</file>
+        <file>sky_box/Left.bmp</file>
+        <file>sky_box/Right.bmp</file>
+        <file>sky_box/Top.bmp</file>
+    </qresource>
+</RCC>
